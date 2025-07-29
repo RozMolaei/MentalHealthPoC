@@ -1,0 +1,15 @@
+.env
+API_Key.txt
+API_Keyy.txt
+*.env
+__pycache__/
+.venv/
+data/raw/
+*.csv
+*.json
+*.pkl
+data/faiss_index/
+data/response_vectors.pkl
+data/responses.pkl
+data/vectorizer.pkl
+data/contexts.pkl
